@@ -3,5 +3,6 @@ prefix=2
 game=2play|#Rayn
 stayinchannel=false
 songinstatus=false
-token=NTg5NTA5NzM2MjAyODk1MzYy.XQUw9A.wbOPc58GxDhz7dcenlmIZzGohyo
+token=NTg5NTA5NzM2MjAyODk1MzYy.XQVIog.6Up7vjR1Xv35d7kJHmaDc6FOn5A
+
 
